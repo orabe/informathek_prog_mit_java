@@ -8,13 +8,15 @@ public class Literale {
 
         // ZUSAMMENFASSUNG
         //
-        // Kategorie           | Beispiel          | Typ                 | Beschreibung
-        // --------------------|-------------------|---------------------|-----------------------------------
-        // Numerische Literale | 1, 34             | Ganzzahl (int)      | Ganzzahlliterale
-        // Numerische Literale | 2.5f, 3.4, 3.4F   | Gleitkommazahl      | Gleitkommazahlenliterale
-        // Zeichen Literale    | 'F', 'a'          | Zeichen (char)      | Einzelne Zeichenliterale
-        // Textuelle Literale  | "Java Programming", "Programiz" | Zeichenkette (String)  | Zeichenkettenliterale
-        // Boolesche Literale  | false, true       | Boolesch (boolean)  | Wahrheitswerte
+        // | --------------------|-------------------|------------------------|--------------------------|
+        // | Kategorie           | Beispiel          | Typ                    | Beschreibung             |
+        // | --------------------|-------------------|------------------------|--------------------------|
+        // | Numerische Literale | 1, 34             | Ganzzahl (int)         | Ganzzahlliterale         |
+        // | Numerische Literale | 2.5f, 3.4, 3.4F   | Gleitkommazahl         | Gleitkommazahlenliterale |
+        // | Zeichen Literale    | 'F', 'a'          | Zeichen (char)         | Einzelne Zeichenliterale |
+        // | Textuelle Literale  | "Java Programing" | Zeichenkette (String)  | Zeichenkettenliterale    |
+        // | Boolesche Literale  | false, true       | Boolesch (boolean)     | Wahrheitswerte           |
+        // | --------------------|-------------------|------------------------|---------------------------
 
         // Here, 1, 2.5, and 'F' are literals.
         // Here are different types of literals in Java.
