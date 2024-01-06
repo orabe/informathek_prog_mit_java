@@ -8,15 +8,15 @@ public class Literale {
 
         // ZUSAMMENFASSUNG
         //
-        // | --------------------|-------------------|------------------------|--------------------------|
-        // | Kategorie           | Beispiel          | Typ                    | Beschreibung             |
-        // | --------------------|-------------------|------------------------|--------------------------|
-        // | Numerische Literale | 1, 34             | Ganzzahl (int)         | Ganzzahlliterale         |
-        // | Numerische Literale | 2.5f, 3.4, 3.4F   | Gleitkommazahl         | Gleitkommazahlenliterale |
-        // | Zeichen Literale    | 'F', 'a'          | Zeichen (char)         | Einzelne Zeichenliterale |
-        // | Textuelle Literale  | "Java Programing" | Zeichenkette (String)  | Zeichenkettenliterale    |
-        // | Boolesche Literale  | false, true       | Boolesch (boolean)     | Wahrheitswerte           |
-        // | --------------------|-------------------|------------------------|---------------------------
+        // | --------------------|-------------------|--------------------------|--------------------------|
+        // | Kategorie           | Beispiel          | Typ                      | Beschreibung             |
+        // | --------------------|-------------------|--------------------------|--------------------------|
+        // | Numerische Literale | 1, 34             | (byte, int, short, long) | Ganzzahlen               |
+        // | Numerische Literale | 2.5f, 3.4, 3.4F   | (double, float)          | Gleitkommazahlen         |
+        // | Zeichen Literale    | 'F', 'a'          | (char)                   | Einzelne Zeichen         |
+        // | Textuelle Literale  | "Java Programing" | (String)                 | Zeichenketten            |
+        // | Boolesche Literale  | false, true       | (boolean)                | Wahrheitswerte           |
+        // | --------------------|-------------------|--------------------------|--------------------------|
 
         // Here, 1, 2.5, and 'F' are literals.
         // Here are different types of literals in Java.
@@ -62,9 +62,9 @@ public class Literale {
         // 4. String literals
         // Ein Zeichenkettenliteral ist eine Sequenz von Zeichen, die in doppelten Anführungszeichen
         // eingeschlossen ist.
-        // Hier sind "Java Programming" und "Programiz" zwei Zeichenkettenliterale.
+        // Hier sind "Java Programming" und "Program" zwei Zeichenkettenliterale.
         String str1 = "Java Programming";
-        String str2 = "Programiz";
+        String str2 = "Program";
 
         // --------------------------------------------------------------------------------------
 
