@@ -1,4 +1,4 @@
-# InformathekJavaCourse
+# Programmieren mit Java
 
 Hier bei [informathek](https://www.informathek.com) haben wir alles für den Java-Kurs zusammengestellt. Die Kapitel sind so organisiert, dass ihr einen klaren Lernweg habt.
 
