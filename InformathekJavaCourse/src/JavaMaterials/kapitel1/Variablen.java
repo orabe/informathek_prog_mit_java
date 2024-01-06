@@ -2,6 +2,8 @@ package JavaMaterials.kapitel1;
 
 public class Variablen {
     public static void main(String[] args) {
+        // JAVA VARIABLEN:
+        // Eine Variable ist ein Speicherort im Speicher, um Daten aufzubewahren.
 
         // Create Variables in Java
         int speedLimit = 80;
