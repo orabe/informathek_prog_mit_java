@@ -12,7 +12,7 @@ public class Literale {
         // | Kategorie           | Beispiel          | Typ                      | Beschreibung             |
         // | --------------------|-------------------|--------------------------|--------------------------|
         // | Numerische Literale | 1, 34             | (byte, int, short, long) | Ganzzahlen               |
-        // | Numerische Literale | 2.5f, 3.4, 3.4F   | (double, float)          | Gleitkommazahlen         |
+        // | Numerische Literale | 2.5f, 3.4, 3.4F   | (float, doable)          | Gleitkommazahlen         |
         // | Zeichen Literale    | 'F', 'a'          | (char)                   | Einzelne Zeichen         |
         // | Textuelle Literale  | "Java Programing" | (String)                 | Zeichenketten            |
         // | Boolesche Literale  | false, true       | (boolean)                | Wahrheitswerte           |
