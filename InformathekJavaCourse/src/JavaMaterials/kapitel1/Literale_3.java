@@ -1,6 +1,6 @@
 package JavaMaterials.kapitel1;
 
-public class Literale {
+public class Literale_3 {
     public static void main(String[] args) {
         // JAVA LITERALE:
         // Literale sind Daten, die zur Darstellung von festen Werten verwendet werden.

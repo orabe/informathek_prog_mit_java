@@ -1,6 +1,6 @@
 package JavaMaterials.kapitel1;
 
-public class Variablen {
+public class Variablen_2 {
     public static void main(String[] args) {
         // JAVA VARIABLEN:
         // Eine Variable ist ein Speicherort im Speicher, um Daten aufzubewahren.
