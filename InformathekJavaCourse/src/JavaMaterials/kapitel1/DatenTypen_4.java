@@ -28,11 +28,11 @@ public class DatenTypen_4 {
         // | Kategorie           | Datentyp | Bereich                             | Standardwert | Beispiel              |
         // |---------------------|----------|-------------------------------------|--------------|-----------------------|
         // | Zeichenketten       | String   | -                                   | null         | text = "Hello, World!"|
-        //
-        //
-        // --------------------------------------------------------------------------------------
 
+
+        // --------------------------------------------------------------------------------------
         // 1. boolean type
+
         // - Boolean-Datentyp: Zwei mögliche Werte - true oder false.
         // - Standardwert: false.
         // - Verwendung: Typischerweise für Wahrheitsbedingungen (true/false).
@@ -50,7 +50,6 @@ public class DatenTypen_4 {
         System.out.println(range1);    // prints 124
 
         // --------------------------------------------------------------------------------------
-
         // 3. short type
         // - Werte von -32768 bis 32767 (16-Bit-Vorzeicheninteger im Zweierkomplement).
         // - Verwendung bei sicherem Wertebereich von -32768 bis 32767, um Speicherplatz im Vergleich zu
