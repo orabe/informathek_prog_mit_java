@@ -1,6 +1,6 @@
 # InformathekJavaCourse
 
-Hier bei InformathekJavaCourse haben wir alles für den Java-Kurs zusammengestellt. Die Kapitel sind so organisiert, dass ihr einen klaren Lernweg habt.
+Hier bei [Informatik.com](www.Informatik.com) haben wir alles für den Java-Kurs zusammengestellt. Die Kapitel sind so organisiert, dass ihr einen klaren Lernweg habt.
 
 ## Projektstruktur
 
@@ -29,10 +29,10 @@ Dabei enthält jedes Kapitel (z.B., `kapitel1`, `kapitel2`, usw.) einzelne Java-
 
 ## Weitere Infos
 
-Schaut auf unserer Website vorbei für zusätzliche Ressourcen und Infos zum Kurs: [InformathekJavaCourse Website](https://www.informathek.com)
+Schaut auf unserer [Website](https://www.informathek.com/laufende_kurse/informatik_kurse/uni/java1/java_1_generell.html) vorbei für zusätzliche Informationen und Infos zum Kurs.
 
 ## Telegram-Gruppe
 
-Tretet unserer Telegram-Gruppe bei, um euch mit anderen Studis auszutauschen: [InformathekJavaCourse Telegram-Gruppe](https://t.me/infor_mathe_k/575)
+Tretet unserer [Telegram-Gruppe](https://t.me/infor_mathe_k/575) bei, um euch mit anderen Studis auszutauschen.
 
 Viel Spaß beim Programmieren!
