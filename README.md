@@ -1,6 +1,6 @@
 # InformathekJavaCourse
 
-Hier bei [informatik.com](www.informathek.com) haben wir alles für den Java-Kurs zusammengestellt. Die Kapitel sind so organisiert, dass ihr einen klaren Lernweg habt.
+Hier bei [informathek.com](www.informathek.com) haben wir alles für den Java-Kurs zusammengestellt. Die Kapitel sind so organisiert, dass ihr einen klaren Lernweg habt.
 
 ## Projektstruktur
 
