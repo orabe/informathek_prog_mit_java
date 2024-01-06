@@ -1,11 +1,12 @@
-# Java Course Materials
+# InformathekJavaCourse
 
-Dieses Java-Projekt enthält umfassende Materialien für einen Java-Kurs. Die Kursinhalte sind nach Themen organisiert, um einen strukturierten Lernansatz zu ermöglichen.
+Hier bei InformathekJavaCourse haben wir alles für den Java-Kurs zusammengestellt. Die Kapitel sind so organisiert, dass ihr einen klaren Lernweg habt.
 
 ## Projektstruktur
 
-Die Projektstruktur sieht wie folgt aus:
+Unsere Ordnerstruktur sieht so aus:
 
+```bash
 InformathekJavaCourse
 |-- src
 |   |-- JavaMaterials
@@ -22,12 +23,16 @@ InformathekJavaCourse
 |       |   |-- ...
 |       | 
 |       |-- ...
+```
 
+Dabei enthält jedes Kapitel (z.B., `kapitel1`, `kapitel2`, usw.) einzelne Java-Dateien (`HelloWorld.java`, `Variablen.java`, usw.)
 
-## Anleitung
+## Weitere Infos
 
-Jedes Kapitel (z.B., `kapitel1`, `kapitel2`, usw.) enthält einzelne Java-Dateien (`HelloWorld.java`, `Variablen.java`, usw.) für jeweilige Lektionen oder Module. Sie können den Quellcode verwenden, um die Beispiele nachzuvollziehen und das Gelernte zu vertiefen.
+Schaut auf unserer Website vorbei für zusätzliche Ressourcen und Infos zum Kurs: [InformathekJavaCourse Website](https://www.informathek.com)
 
+## Telegram-Gruppe
 
-Viel Spaß beim Lernen!
+Tretet unserer Telegram-Gruppe bei, um euch mit anderen Studis auszutauschen: [InformathekJavaCourse Telegram-Gruppe](https://t.me/infor_mathe_k/575)
 
+Viel Spaß beim Programmieren!
