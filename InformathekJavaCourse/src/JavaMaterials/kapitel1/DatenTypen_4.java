@@ -27,7 +27,7 @@ public class DatenTypen_4 {
         //
         // | Kategorie           | Datentyp | Bereich                             | Standardwert | Beispiel              |
         // |---------------------|----------|-------------------------------------|--------------|-----------------------|
-        // | Zeichenketten       | String   | Zeichenketten                       | null         | text = "Hello, World!"|
+        // | Zeichenketten       | String   | -                                   | null         | text = "Hello, World!"|
         //
         //
         // --------------------------------------------------------------------------------------
