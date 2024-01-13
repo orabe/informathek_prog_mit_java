@@ -68,7 +68,7 @@ public class arrays {
 
         // Print das array rueckwaerts
         // Looping Through Array Elements
-        int[] htwArray = {1, 2, 3, 4, 9, 10};
+        int[] htwArray = {3, 4, 9, 10};
 
         int r = htwArray.length ; // = 6
         while(r >= 0)

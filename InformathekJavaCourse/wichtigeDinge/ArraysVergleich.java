@@ -30,7 +30,7 @@ public class ArraysVergleich {
         int[] array4 = {1, 2, 3};
         int[] array5 = {1, 2, 3};
 
-        System.out.println(Arrays.equals(array1, array2));  // true, da die Inhalte gleich sind
+        System.out.println(Arrays.equals(array4, array5));  // true, da die Inhalte gleich sind
 
         // Die Methode Arrays.equals() vergleicht die Inhalte der Arrays und gibt `true` zurück, wenn sie gleich sind,
         // andernfalls `false`.
