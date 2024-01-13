@@ -1,6 +1,6 @@
 package kapitel4;
 
-public class DreizehnerJanuar {
+public class DreizehnerJanuar2 {
     static int doSomething(int a, int b){
 //        System.out.println(a);
 //        System.out.println(b);

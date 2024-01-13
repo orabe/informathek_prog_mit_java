@@ -1,6 +1,6 @@
 package kapitel4;
 
-public class Casting {
+public class Casting3 {
     public static void main(String[] args) {
 
         int result1 = (int) 0.7;
