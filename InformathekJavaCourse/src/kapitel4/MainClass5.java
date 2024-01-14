@@ -6,7 +6,7 @@ class Studenten{
     int age;
 }
 
-class Autos{
+class Cars {
     String name;
     int zahl;
     String farbe;
@@ -16,8 +16,8 @@ class Autos{
 
 public class MainClass5 {
     public static void main(String[] args) {
-        Autos auto1 = new Autos();
-        Autos auto2 = new Autos();
+        Cars auto1 = new Cars();
+        Cars auto2 = new Cars();
 
         Studenten student1 = new Studenten();
         Studenten student2 = new Studenten();
