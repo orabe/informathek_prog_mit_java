@@ -1,6 +1,6 @@
 package kapitel4;
 
-public class Methoden1 {
+public class Methoden_1 {
 
     static void meineSpezielleMethode(){
         System.out.println("Hello , I love java");

@@ -5,7 +5,7 @@ class Animal{
 
 }
 
-public class MyClass4 {
+public class Klassen_4 {
     public static void main(String[] args) {
 //    int[] arr = new int[5];
     Animal vogel = new Animal();

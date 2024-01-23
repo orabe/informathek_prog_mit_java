@@ -1,6 +1,6 @@
 package kapitel3;
 
-public class arrays {
+public class Arrays_1
     public static void main(String[] args) {
         // Java Arrays
         // Ein Array ist eine Sammlung von ähnlichen Datentypen.

@@ -6,7 +6,7 @@ class Studiernden {
     char gender;
 }
 
-public class Wiederholung6 {
+public class Wiederholung_6 {
 
     public static void main(String[] args) {
 

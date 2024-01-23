@@ -14,7 +14,7 @@ class Cars {
 
 
 
-public class MainClass5 {
+public class Klassen_5 {
     public static void main(String[] args) {
         Cars auto1 = new Cars();
         Cars auto2 = new Cars();

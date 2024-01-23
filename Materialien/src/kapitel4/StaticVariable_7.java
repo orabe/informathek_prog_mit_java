@@ -7,7 +7,7 @@ class Besitzer{
     char gender;
 }
 
-public class ClassMethoden7 {
+public class StaticVariable_7 {
 
     public static void main(String[] args) {
 
