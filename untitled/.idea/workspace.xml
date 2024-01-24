@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dd602a86-ffa1-4f1d-b3c7-781231c797fa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../informathek_prog_mit_java.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/.idea/kotlinc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/.idea/libraries/KotlinJavaRuntime.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/src/Hausaufgaben/HA1-Temperatoren_Hausaufgabe_06.01.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/src/Hausaufgaben/HA1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/src/kapitel1/DatenTypen_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/src/kapitel1/HelloWorld_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/src/kapitel1/Literale_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/src/kapitel1/Variablen_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/src/kapitel1/WiederholungZusammenfassung.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/src/kapitel3/Arrays_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/src/kapitel4/Casting_3.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/src/kapitel4/Klassen_4.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/src/kapitel4/Klassen_5.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/src/kapitel4/Methoden_1.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/src/kapitel4/Methoden_2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/src/kapitel4/StaticVariable_7.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/src/kapitel4/Wiederholung_6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Materialien/src/wichtigeDinge/ArraysVergleich.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2bN5to2s7bTeuecspeOmFkxZyXC" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dd602a86-ffa1-4f1d-b3c7-781231c797fa" name="Changes" comment="" />
+      <created>1706042913069</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1706042913069</updated>
+      <workItem from="1706042914096" duration="7000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
