@@ -1,6 +1,6 @@
-package kapitel4_Klassen;
+package kapitel1_introduction;
 
-public class Casting_3 {
+public class Casting_6 {
     public static void main(String[] args) {
 
         int result1 = (int) 0.7;

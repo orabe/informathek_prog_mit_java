@@ -1,6 +1,6 @@
 package kapitel1_introduction;
 
-public class WiederholungZusammenfassung_6 {
+public class WiederholungZusammenfassung_7 {
 
     public static void main(String[] args) {
         // 1. Literale

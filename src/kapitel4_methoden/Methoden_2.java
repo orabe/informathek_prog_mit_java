@@ -1,6 +1,6 @@
-package kapitel4_Klassen;
+package kapitel4_methoden;
 
-public class Methoden_1 {
+public class Methoden_2 {
 
     static void meineSpezielleMethode(){
         System.out.println("Hello , I love java");
@@ -16,9 +16,6 @@ public class Methoden_1 {
     }
 
     public static void main(String[] args) {
-
-        System.out.println(
-                System.currentTimeMillis());
 
         System.out.println(
                 Math.sqrt(9));

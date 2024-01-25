@@ -1,6 +1,6 @@
 package kapitel2_flusskontrolle;
 
-public class WhileSchleife {
+public class WhileSchleife_4 {
     public static void main(String[] args) {
         /* 1. Java while-Schleifen
         - In der Programmierung werden Schleifen verwendet, um einen Codeblock zu wiederholen.

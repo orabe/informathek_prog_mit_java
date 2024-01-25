@@ -4,25 +4,45 @@ Hier bei [informathek](https://www.informathek.com) haben wir alles für den Jav
 
 ## Projektstruktur
 
-Unsere Ordnerstruktur sieht so aus:
+Die Ordnerstruktur sieht so aus:
 
 ```bash
-InformathekJavaCourse
-|-- src
-|   |-- JavaMaterials
-|       |-- kapitel1
-|       |   |-- HelloWorld.java
-|       |   |-- Variablen.java
-|       |   |-- DatenTypen.java
-|       |   |-- ...
-|       | 
-|       |-- kapitel2
-|       |   |-- IfElse.java
-|       |   |-- FORSchleife.java
-|       |   |-- While.java
-|       |   |-- ...
-|       | 
-|       |-- ...
+informathel_prog_mit_java
+|____Notizen
+|____wichtigeDinge
+|____Hausaufgaben
+|____src
+|    |____kapitel1_introduction
+|    |    |____HelloWorld_1.java
+|    |    |____Variablen_2.java
+|    |    |____Literale_3.java
+|    |    |____DatenTypen_4.java
+|    |    |____Operatoren_5.java
+|    |    |____Casting_6.java
+|    |    |____WiederholungZusammenfassung_7.java
+|    |
+|    |____kapitel2_flusskontrolle
+|    |    |____IfElse_Anweisung_1.java
+|    |    |____Switch_Anweisung_2.java
+|    |    |____ForSchleife_3.java
+|    |    |____WhileSchleife_4.java
+|    |
+|    |____kkapitel3_arrays
+|    |    |____Arrays_1.java
+|    |    |____Wiederholung_Arrays_2.java
+|    |
+|    |____kapitel4_methoden
+|    |    |____Methoden_1.java
+|    |    |____Methoden_2.java
+|    |    |____Methoden_3.java
+|    |
+|    |____kapitel5_Klassen
+|    |    |____Klassen_1.java
+|    |    |____Klassen_2.java
+|    |    |____Klassen_3.java
+|    |    |____Klassen_4.java
+|    |    |____KlassenWiederholung_5.java
+|    |    |____KlassenStaticVariable_6.java
 ```
 
 Dabei enthält jedes Kapitel (z.B., `kapitel1`, `kapitel2`, usw.) einzelne Java-Dateien (`HelloWorld.java`, `Variablen.java`, usw.)

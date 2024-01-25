@@ -1,4 +1,4 @@
-package kapitel4_Klassen;
+package kapitel5_Klassen;
 
 class Studiernden {
     String name;
@@ -6,7 +6,7 @@ class Studiernden {
     char gender;
 }
 
-public class Wiederholung_6 {
+public class KlassenWiederholung_5 {
 
     public static void main(String[] args) {
 

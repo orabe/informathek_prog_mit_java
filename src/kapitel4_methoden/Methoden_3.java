@@ -1,19 +1,19 @@
-package kapitel4_Klassen;
+package kapitel4_methoden;
 
-public class Methoden_2 {
+public class Methoden_3 {
     static int doSomething(int a, int b){
-//        System.out.println(a);
-//        System.out.println(b);
+        // System.out.println(a);
+        // System.out.println(b);
 
         int sum = a + b;
         int sub = a - b;
         int mult = a * b;
         double div = a / b;
-//
-//        System.out.println(sum);
-//        System.out.println(sub);
-//        System.out.println(mult);
-//        System.out.println(div);
+
+        // System.out.println(sum);
+        // System.out.println(sub);
+        // System.out.println(mult);
+        // System.out.println(div);
 
         return mult;
     }
