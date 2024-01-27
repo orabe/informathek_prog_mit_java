@@ -1,7 +1,7 @@
 package kapitel5_Klassen;
 
 // 1. Klasse deklarieren
-public class KlassenPositionDerMethoden_9 {
+public class Klassen_Postion_der_Variables_und_Methoden_und_static_9 {
     int anzahlFensters;
     String farbe;
 
@@ -34,10 +34,10 @@ public class KlassenPositionDerMethoden_9 {
 
         // statische Variable: ort. Zugriff kann durch die Klasse direkt.
         ort = "Berlin";
-        System.out.println(KlassenPositionDerMethoden_9.ort);
+        System.out.println(Klassen_Postion_der_Variables_und_Methoden_und_static_9.ort);
 
         // 2. Objekt erstellen
-        KlassenPositionDerMethoden_9 kleinHaus = new KlassenPositionDerMethoden_9();
+        Klassen_Postion_der_Variables_und_Methoden_und_static_9 kleinHaus = new Klassen_Postion_der_Variables_und_Methoden_und_static_9();
 
         // 3. Objekt mit werten initialiseiren.
         kleinHaus.farbe = "white";
