@@ -1,4 +1,4 @@
-package kapitel5_Klassen;
+package kapitel5_OOP1;
 
 // 1. Klasse deklarieren
 public class Klassen_Postion_der_Variables_und_Methoden_und_static_9 {

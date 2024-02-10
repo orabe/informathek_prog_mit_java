@@ -1,4 +1,4 @@
-package kapitel5_Klassen;
+package kapitel5_OOP1;
 // In diesem Tutorial erlernen wir den Umgang mit Klassenmethoden.
 // Klassenmethoden sind Methoden, die zu einer bestimmten Klasse gehören.
 // Es ist wichtig zu beachten, dass diese Klasse nicht zwingend die Hauptklasse sein muss, welche die Hauptmethode (main) enthält.

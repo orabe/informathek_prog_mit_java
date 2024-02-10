@@ -1,4 +1,4 @@
-package kapitel5_Klassen;
+package kapitel5_OOP1;
 
 // Die Klasse Animal repräsentiert Tierobjekte mit der Eigenschaft fliegen, die angibt, ob das Tier fliegen kann (true oder false).
 class Animal {

@@ -1,4 +1,4 @@
-package kapitel5_Klassen;
+package kapitel5_OOP1;
 
 class Studiernden {
     String name;

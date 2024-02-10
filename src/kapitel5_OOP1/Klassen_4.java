@@ -1,4 +1,4 @@
-package kapitel5_Klassen;
+package kapitel5_OOP1;
 
 // Die Klasse Studenten repräsentiert Studentenobjekte mit den Eigenschaften name, gender und age.
 class Studenten {

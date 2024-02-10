@@ -1,4 +1,4 @@
-package kapitel5_Klassen;
+package kapitel5_OOP1;
 /* Static variables (Statische Variablen)
    - Eine statische Variable, die mit dem Schlüsselwort 'static' deklariert wird,
    gehört zur Klasse und nicht zu einer bestimmten Instanz der Klasse.

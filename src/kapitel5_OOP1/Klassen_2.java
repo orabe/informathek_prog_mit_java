@@ -1,4 +1,4 @@
-package kapitel5_Klassen;
+package kapitel5_OOP1;
 /* Beispiel: Erstellen von Objekten innerhalb derselben Klasse
 - Beachtet, dass wir in dem vorherigen Beispielen Objekte in einer anderen Klasse erstellt und auf die Elemente dieser Klasse zugegriffen haben.
 - Jedoch können wir auch Objekte innerhalb derselben Klasse erstellen.
