@@ -1,6 +1,6 @@
 package Kapitel6_OOP2;
 
-public class Methoden_Arrays_forSchleife_1_wiederholung {
+public class Methoden_Arrays_forSchleife_wiederholung_0 {
 
     static void printArry(int[] arr){ // das ist die definition der methide.
 

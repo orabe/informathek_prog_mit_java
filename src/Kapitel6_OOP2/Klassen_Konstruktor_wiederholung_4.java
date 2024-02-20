@@ -17,7 +17,7 @@ class Auto{
     }
 
 }
-public class Konstruktor1_wiederholung {
+public class Klassen_Konstruktor_wiederholung_4 {
     public static void main(String[] args) {
 //        Auto auto_obj1 = new Auto();
 //

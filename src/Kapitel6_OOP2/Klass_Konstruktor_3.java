@@ -36,7 +36,7 @@ class Car{
 }
 
 //----------------------------------------------------------
-public class Klass_Konstr_2 {
+public class Klass_Konstruktor_3 {
     public static void main(String[] args) {
 
         Car obj1 = new Car();

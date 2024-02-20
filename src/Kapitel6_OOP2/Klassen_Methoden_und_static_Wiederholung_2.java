@@ -19,7 +19,7 @@ class Student{ // class definition
     }
 }
 
-public class Klassen_Methoden_und_static_1_Wiederholung {
+public class Klassen_Methoden_und_static_Wiederholung_2 {
     float laenge;
     static float breite;
 
@@ -41,9 +41,9 @@ public class Klassen_Methoden_und_static_1_Wiederholung {
         student2.vorname = "esraa";
 
 //        ---------------------------------------
-        Klassen_Methoden_und_static_1_Wiederholung klassen_methoden1 = new Klassen_Methoden_und_static_1_Wiederholung();
+        Klassen_Methoden_und_static_Wiederholung_2 klassen_methoden1 = new Klassen_Methoden_und_static_Wiederholung_2();
         klassen_methoden1.laenge = 13;
-        Klassen_Methoden_und_static_1_Wiederholung.breite = 17;
+        Klassen_Methoden_und_static_Wiederholung_2.breite = 17;
         breite = 17;
 
 //        ---------------------------------------
