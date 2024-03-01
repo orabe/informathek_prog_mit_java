@@ -1,4 +1,4 @@
-package Kapitel6_OOP2;
+package kapitel6_OOP2;
 
 // Klassen_Methoden_Arrays_forSchleife:
 // ===================================

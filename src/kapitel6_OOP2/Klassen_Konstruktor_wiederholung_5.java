@@ -1,4 +1,4 @@
-package Kapitel6_OOP2;
+package kapitel6_OOP2;
 // Wiederholung fuer Konstruktor
 
 class MyCarClass{

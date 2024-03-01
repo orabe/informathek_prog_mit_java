@@ -1,4 +1,4 @@
-package erstes_package;
+package kaiptel7_OOP3_access_modifiers_erstes_package;
 
 class Elefant{
     static String stimme; // default attribute

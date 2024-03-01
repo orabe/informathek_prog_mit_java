@@ -1,4 +1,4 @@
-package Kapitel6_OOP2;
+package kapitel6_OOP2;
 
 public class Methoden_Arrays_forSchleife_wiederholung_0 {
 

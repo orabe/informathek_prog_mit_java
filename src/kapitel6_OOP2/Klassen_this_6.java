@@ -1,4 +1,4 @@
-package Kapitel6_OOP2;
+package kapitel6_OOP2;
 
 // Die Aufgabenstellung:
 // 1. Erstelle eine Klasse namens Katze mit drei varablen (name, farbe, alter)

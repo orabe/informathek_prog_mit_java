@@ -1,10 +1,9 @@
-package zweites_package;
+package kaiptel7_OOP3_access_modifiers_zweites_package;
 
-import erstes_package.Hund;
-import erstes_package.Affe;
-// import erstes_package.*; importiert alle Klassen aus allen java datein aus dem erstes_package.
+import kaiptel7_OOP3_access_modifiers_erstes_package.Hund;
+// import kaiptel7_OOP3_access_modifiers_erstes_package.*; importiert alle Klassen aus allen java datein aus dem kaiptel7_OOP3_access_modifiers_erstes_package.
 
-// import erstes_package.Elefant; // das geht nicht, weil die Elefant Klasse ist default undliegt in einem anderen Packet.
+// import kaiptel7_OOP3_access_modifiers_erstes_package.Elefant; // das geht nicht, weil die Elefant Klasse ist default undliegt in einem anderen Packet.
 
 public class Maus {
     // Hund: public

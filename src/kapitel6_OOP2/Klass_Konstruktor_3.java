@@ -1,4 +1,4 @@
-package Kapitel6_OOP2;
+package kapitel6_OOP2;
 
 class Car{
     String farbe;
