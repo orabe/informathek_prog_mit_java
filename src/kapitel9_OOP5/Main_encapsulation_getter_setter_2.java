@@ -27,7 +27,7 @@ class City{
 
 }
 
-public class Main_encapsulation {
+public class Main_encapsulation_getter_setter_2 {
     public static void main(String[] args) {
         City city1 = new City();
         System.out.println(city1.anzahlBewohner);

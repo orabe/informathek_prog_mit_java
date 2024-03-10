@@ -23,14 +23,33 @@ class Bit{
         b.value = (this.value && b.value);
         return b;
     }
+
+    boolean isBigger(Bit b){
+        if (this.value == true && b.value == false){
+            return true;
+        }
+        else {
+            return false;
+        }
+    }
 }
 
 public class Aufgabe1 {
     public static void main(String[] args) {
-        Bit bitA = new Bit(true);
-        Bit bitB = new Bit(false);
+        Bit b1 = new Bit(true);
+        Bit b2 = new Bit(true);
+        Bit b3 = new Bit(false);
+        Bit b4 = new Bit(false);
 
-        bitA.and(bitB);
+        b1.and(b2);
+        b1.and(b3);
+        b3.and(b4);
+
+        b1.isBigger(b2);
+        b1.isBigger(b3);
+        b3.isBigger(b4);
+//        auch noch: das gleiche auch fuer or methode
 
     }
+
 }
