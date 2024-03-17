@@ -42,7 +42,7 @@ public class Main_encapsulation_getter_setter_beispiel_3 {
         human.printText();
         human.printText();
         human.printText();
-        Human.land = "DE"; // static var
+        human.land = "DE"; // static var
         System.out.println(Human.land);
         System.out.println(human.ort); // final variable
 
