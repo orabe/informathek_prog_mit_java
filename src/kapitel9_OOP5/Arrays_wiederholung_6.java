@@ -1,8 +1,6 @@
 package kapitel9_OOP5;
 
-import java.util.SortedMap;
-
-public class Methoden_Lina {
+public class Arrays_wiederholung_6 {
     public static void main(String[] args) {
         // Arrays deklarieren, und werten mitangeben bei ertellung des arrays direkt laenge bestimmen,
         // 1. mthode, um ein array zu deklarieren und initialisieren
