@@ -1,4 +1,4 @@
-package medizin_technik;
+package Klausuren.medizin_technik;
 
 
 

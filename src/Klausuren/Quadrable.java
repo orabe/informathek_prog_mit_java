@@ -1,4 +1,4 @@
-package medizin_technik;
+package Klausuren;
 
 public interface Quadrable {
     double square(double value);

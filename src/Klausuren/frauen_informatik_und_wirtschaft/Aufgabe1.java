@@ -1,4 +1,4 @@
-package frauen_informatik_und_wirtschaft;
+package Klausuren.frauen_informatik_und_wirtschaft;
 
 class Bit{
      private boolean value; // teil 1

@@ -1,4 +1,4 @@
-package htw_wirtschaftsinformatik_WiSe23_24;
+package Klausuren.htw_wirtschaftsinformatik_WiSe23_24;
 
 
 
