@@ -1,4 +1,4 @@
-package Klausuren.frauen_informatik_und_wirtschaft;
+package __klausuren__.frauen_informatik_und_wirtschaft;
 
 public class Aufgabe2 {
     public static int sum(int a, int b, int c){

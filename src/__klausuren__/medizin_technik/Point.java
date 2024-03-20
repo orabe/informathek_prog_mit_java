@@ -1,4 +1,4 @@
-package Klausuren.medizin_technik;
+package __klausuren__.medizin_technik;
 
 interface movable{
     public void move(double dx, double dy);

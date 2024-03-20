@@ -1,7 +1,7 @@
-package Klausuren.medizin_technik;
+package __klausuren__.medizin_technik;
 
 
-import Klausuren.Quadrable;
+import __klausuren__.Quadrable;
 
 public class MainClass_Aufgabe_5 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Klausuren.medizin_technik;
+package __klausuren__.medizin_technik;
 
 public class ApproxApplication {
     public static double approximatePi(long kMax){
